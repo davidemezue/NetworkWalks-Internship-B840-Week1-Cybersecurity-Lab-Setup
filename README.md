@@ -1,7 +1,7 @@
 # NetworkWalks Cybersecurity Internship - Week 1: Lab Setup
 
 ## 📖 Project Overview
-This repository documents the successful setup of an isolated virtual cybersecurity lab for Week 1 of the NetworkWalks internship. The goal was to build a safe, sandboxed environment for future penetration testing exercises, ensuring all practical work remains contained and does not affect the host machine[reference:7].
+This repository documents the successful setup of an isolated virtual cybersecurity lab for Week 1 of the NetworkWalks internship. The goal was to build a safe, sandboxed environment for future penetration testing exercises, ensuring all practical work remains contained and does not affect the host machine.
 
 ## 🏗️ Lab Architecture
 *   **Hypervisor:** Oracle VirtualBox
