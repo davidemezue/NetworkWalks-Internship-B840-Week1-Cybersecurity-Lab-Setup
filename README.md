@@ -26,7 +26,7 @@ This repository documents the successful setup of an isolated virtual cybersecur
 *   Linux Command Line (`nmcli`, `ping`)
 
 ## 📸 Evidence
-All configuration screenshots and successful ping tests are available in the `/screenshots` folder.
+All configuration screenshots and successful ping tests are available in the `/screenshots` folder and LinkedIn post.
 
 ---
 **Disclaimer:** This lab was created for educational purposes only. All security testing should only be performed on systems you own or have explicit permission to test.
